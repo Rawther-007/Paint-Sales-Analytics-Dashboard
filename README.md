@@ -1,4 +1,4 @@
-# Paint-Sales-Analytics-Dashboard
+# Paint Sales Analytics Dashboard
 
 Paint Sales Performance Dashboard 
 Created a comprehensive sales monitoring solution for a paint manufacturing business, tracking performance across key operational dimensions.
