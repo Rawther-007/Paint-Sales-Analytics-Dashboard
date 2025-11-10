@@ -11,7 +11,6 @@ Developed an interactive dashboard to track sales performance, regional trends, 
 
 
 ### 	Tech Stack
-List the key technologies used to build the dashboard.
 
 The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
