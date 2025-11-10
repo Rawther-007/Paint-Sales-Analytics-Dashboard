@@ -58,4 +58,4 @@ Collection Rate : 10.63%
 
 ### Screenshots / Demos
 Show what the dashboard looks like. - 
-Example: ![Dashboard Preview](https://github.com/Rawther-007/Mutinational-Retail-Dashboard/blob/main/Snapshot%20of%20Multination%20Retail%20Sales%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/Rawther-007/Paint-Sales-Analytics-Dashboard/blob/main/Snapshot%20of%20Paint%20Sales%20Dashboard%20.png)
